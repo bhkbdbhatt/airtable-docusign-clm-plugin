@@ -1,0 +1,9 @@
+{
+    "manifestVersion": 1,
+    "name": "DocuSign CLM Integration",
+    "description": "Trigger DocuSign CLM workflows, map record fields, and fetch signed contracts directly from Airtable.",
+    "author": "Your Organization",
+    "permissions": [
+        "network"
+    ]
+}
